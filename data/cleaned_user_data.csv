@@ -1,0 +1,301 @@
+UserID,Age,Gender,PreviousMedicalHistory
+U001,68,Male,"Arthritis, Chronic Kidney Disease"
+U002,44,Male,Allergy to Penicillin
+U003,11,Male,None
+U004,10,Female,"Asthma, Cancer"
+U005,88,Male,"Arthritis, Cancer"
+U006,63,Male,"Hypertension, Arthritis"
+U007,71,Male,None
+U008,27,Female,"Heart Disease, Allergy to Penicillin"
+U009,70,Female,Asthma
+U010,66,Female,Depression
+U011,48,Female,Depression
+U012,67,Male,Depression
+U013,47,Female,"Cancer, Arthritis"
+U014,33,Female,"Asthma, Depression"
+U015,50,Female,"Heart Disease, Chronic Kidney Disease"
+U016,81,Male,None
+U017,3,Male,Allergy to Penicillin
+U018,9,Male,Allergy to Penicillin
+U019,27,Female,Allergy to Penicillin
+U020,22,Female,None
+U021,84,Male,"Heart Disease, Arthritis"
+U022,82,Male,Allergy to Penicillin
+U023,9,Female,Obesity
+U024,40,Male,Obesity
+U025,21,Male,Obesity
+U026,52,Female,None
+U027,26,Male,"Heart Disease, Chronic Kidney Disease"
+U028,84,Male,None
+U029,84,Male,None
+U030,17,Female,None
+U031,39,Female,"Hypertension, Hypertension"
+U032,78,Male,None
+U033,3,Female,None
+U034,85,Female,Obesity
+U035,59,Male,"Depression, Chronic Kidney Disease"
+U036,87,Male,Cancer
+U037,45,Female,Cancer
+U038,26,Female,None
+U039,66,Female,"Allergy to Penicillin, Cancer"
+U040,60,Female,"None, Diabetes"
+U041,84,Male,None
+U042,45,Female,Cancer
+U043,24,Male,Asthma
+U044,80,Male,None
+U045,34,Male,Chronic Kidney Disease
+U046,8,Male,None
+U047,82,Male,None
+U048,81,Female,Chronic Kidney Disease
+U049,13,Female,Obesity
+U050,42,Male,None
+U051,90,Male,"Depression, Diabetes"
+U052,27,Male,None
+U053,85,Female,"Diabetes, Arthritis"
+U054,41,Male,Hypertension
+U055,67,Male,"Heart Disease, Asthma"
+U056,18,Male,"Chronic Kidney Disease, Depression"
+U057,2,Female,None
+U058,31,Male,None
+U059,9,Male,Cancer
+U060,80,Male,"Asthma, Asthma"
+U061,67,Female,"Hypertension, Hypertension"
+U062,76,Male,Arthritis
+U063,56,Female,Cancer
+U064,64,Female,"None, Chronic Kidney Disease"
+U065,3,Female,Obesity
+U066,87,Female,"Depression, Arthritis"
+U067,70,Male,"Diabetes, Obesity"
+U068,47,Female,Chronic Kidney Disease
+U069,73,Female,Diabetes
+U070,45,Female,Arthritis
+U071,82,Male,"Diabetes, Arthritis"
+U072,26,Female,Arthritis
+U073,21,Female,Chronic Kidney Disease
+U074,27,Female,None
+U075,35,Male,None
+U076,35,Female,None
+U077,56,Female,None
+U078,21,Female,None
+U079,13,Female,Chronic Kidney Disease
+U080,32,Female,None
+U081,58,Male,Diabetes
+U082,64,Male,Depression
+U083,89,Female,None
+U084,10,Female,Heart Disease
+U085,49,Male,Asthma
+U086,14,Female,"Hypertension, Depression"
+U087,74,Male,None
+U088,52,Female,None
+U089,8,Female,"Cancer, Depression"
+U090,61,Female,"Depression, Allergy to Penicillin"
+U091,17,Female,Hypertension
+U092,61,Female,None
+U093,75,Female,"Arthritis, Depression"
+U094,52,Male,Allergy to Penicillin
+U095,35,Female,"Diabetes, Hypertension"
+U096,19,Female,"Asthma, Hypertension"
+U097,43,Male,"Diabetes, Obesity"
+U098,47,Female,Hypertension
+U099,81,Female,"None, Hypertension"
+U100,39,Male,"Asthma, Cancer"
+U101,77,Male,None
+U102,74,Female,Arthritis
+U103,9,Female,"Asthma, Arthritis"
+U104,3,Male,"Arthritis, Arthritis"
+U105,4,Male,Diabetes
+U106,76,Female,Obesity
+U107,3,Male,None
+U108,82,Male,Allergy to Penicillin
+U109,44,Male,None
+U110,61,Male,Chronic Kidney Disease
+U111,7,Female,"Heart Disease, Chronic Kidney Disease"
+U112,72,Male,Arthritis
+U113,35,Male,None
+U114,7,Female,None
+U115,18,Female,None
+U116,89,Female,Depression
+U117,10,Male,Heart Disease
+U118,15,Male,"Obesity, Hypertension"
+U119,10,Female,"Asthma, None"
+U120,56,Male,"Heart Disease, Allergy to Penicillin"
+U121,26,Female,"Diabetes, Hypertension"
+U122,71,Male,None
+U123,79,Female,None
+U124,42,Female,None
+U125,15,Male,Arthritis
+U126,41,Female,"Heart Disease, Allergy to Penicillin"
+U127,42,Male,None
+U128,33,Female,Asthma
+U129,5,Female,"Chronic Kidney Disease, Allergy to Penicillin"
+U130,78,Female,"Obesity, Diabetes"
+U131,32,Female,"Hypertension, Asthma"
+U132,45,Male,None
+U133,66,Male,"None, Cancer"
+U134,40,Female,Asthma
+U135,37,Male,"Hypertension, Allergy to Penicillin"
+U136,10,Male,"Cancer, Allergy to Penicillin"
+U137,83,Male,None
+U138,71,Male,"Hypertension, Hypertension"
+U139,72,Female,"Arthritis, Allergy to Penicillin"
+U140,3,Female,"Heart Disease, Obesity"
+U141,20,Female,Heart Disease
+U142,71,Male,Arthritis
+U143,3,Female,None
+U144,11,Male,None
+U145,27,Male,Allergy to Penicillin
+U146,22,Male,Cancer
+U147,82,Male,Allergy to Penicillin
+U148,7,Male,None
+U149,2,Male,None
+U150,34,Male,"Arthritis, Hypertension"
+U151,88,Female,None
+U152,18,Male,"Obesity, Obesity"
+U153,40,Female,Arthritis
+U154,13,Female,None
+U155,87,Male,None
+U156,51,Female,"None, Arthritis"
+U157,14,Male,Allergy to Penicillin
+U158,75,Female,"Cancer, Diabetes"
+U159,42,Male,Diabetes
+U160,44,Female,"Diabetes, Chronic Kidney Disease"
+U161,5,Male,None
+U162,52,Female,"None, Heart Disease"
+U163,3,Male,"Obesity, Arthritis"
+U164,29,Male,Obesity
+U165,5,Female,Obesity
+U166,50,Female,"Cancer, Obesity"
+U167,42,Female,Diabetes
+U168,69,Female,None
+U169,1,Male,None
+U170,59,Female,"Heart Disease, Diabetes"
+U171,5,Female,"Heart Disease, Diabetes"
+U172,33,Male,None
+U173,48,Female,Cancer
+U174,33,Male,None
+U175,1,Female,Hypertension
+U176,74,Female,Chronic Kidney Disease
+U177,40,Male,None
+U178,42,Female,None
+U179,6,Male,None
+U180,9,Male,"Arthritis, Arthritis"
+U181,73,Female,None
+U182,77,Female,Allergy to Penicillin
+U183,59,Female,Cancer
+U184,11,Female,Hypertension
+U185,66,Male,"Heart Disease, Diabetes"
+U186,1,Female,"Heart Disease, Allergy to Penicillin"
+U187,84,Female,None
+U188,70,Male,None
+U189,89,Female,"Arthritis, Allergy to Penicillin"
+U190,90,Female,Cancer
+U191,21,Male,Allergy to Penicillin
+U192,45,Female,None
+U193,87,Male,None
+U194,2,Male,None
+U195,11,Male,None
+U196,17,Female,"Diabetes, Cancer"
+U197,1,Male,"None, Asthma"
+U198,13,Female,Chronic Kidney Disease
+U199,7,Female,"Diabetes, None"
+U200,67,Female,"Heart Disease, Chronic Kidney Disease"
+U201,33,Female,Diabetes
+U202,82,Male,None
+U203,27,Female,None
+U204,42,Male,"Asthma, Depression"
+U205,16,Male,None
+U206,56,Male,None
+U207,49,Female,None
+U208,20,Male,None
+U209,69,Female,None
+U210,31,Male,"Chronic Kidney Disease, Depression"
+U211,57,Male,"Hypertension, Diabetes"
+U212,36,Male,Depression
+U213,33,Male,None
+U214,65,Female,None
+U215,46,Male,"Obesity, Asthma"
+U216,17,Male,None
+U217,39,Female,None
+U218,7,Male,None
+U219,5,Female,"Allergy to Penicillin, Heart Disease"
+U220,74,Female,None
+U221,14,Female,None
+U222,82,Female,"Arthritis, Allergy to Penicillin"
+U223,40,Female,Obesity
+U224,30,Female,None
+U225,83,Male,None
+U226,61,Female,None
+U227,17,Female,"Asthma, Diabetes"
+U228,67,Male,Arthritis
+U229,10,Male,None
+U230,8,Male,"Diabetes, Chronic Kidney Disease"
+U231,61,Female,None
+U232,62,Male,Asthma
+U233,87,Male,None
+U234,48,Male,Asthma
+U235,32,Male,Chronic Kidney Disease
+U236,47,Female,"Obesity, Hypertension"
+U237,25,Female,None
+U238,79,Male,None
+U239,24,Female,Heart Disease
+U240,34,Male,"Hypertension, Arthritis"
+U241,30,Male,Allergy to Penicillin
+U242,66,Female,Diabetes
+U243,89,Male,Allergy to Penicillin
+U244,13,Female,Diabetes
+U245,66,Female,Obesity
+U246,90,Female,Allergy to Penicillin
+U247,41,Female,"Depression, Chronic Kidney Disease"
+U248,88,Female,"Depression, Allergy to Penicillin"
+U249,23,Female,"Depression, Hypertension"
+U250,13,Female,None
+U251,48,Female,None
+U252,57,Male,None
+U253,34,Male,None
+U254,42,Female,Chronic Kidney Disease
+U255,55,Female,Chronic Kidney Disease
+U256,34,Male,"Diabetes, Diabetes"
+U257,8,Male,None
+U258,34,Male,None
+U259,4,Female,Cancer
+U260,5,Female,"Obesity, Cancer"
+U261,77,Female,"Depression, Chronic Kidney Disease"
+U262,68,Male,None
+U263,76,Female,"Heart Disease, Asthma"
+U264,40,Male,"Hypertension, Obesity"
+U265,51,Female,Arthritis
+U266,37,Female,None
+U267,63,Female,Arthritis
+U268,40,Male,"Cancer, Hypertension"
+U269,31,Male,None
+U270,57,Female,Depression
+U271,70,Male,Heart Disease
+U272,69,Male,None
+U273,8,Male,Hypertension
+U274,68,Female,Chronic Kidney Disease
+U275,37,Female,"Asthma, Cancer"
+U276,61,Male,"Heart Disease, Asthma"
+U277,27,Female,None
+U278,34,Male,None
+U279,65,Male,"Depression, Heart Disease"
+U280,14,Male,"Allergy to Penicillin, Asthma"
+U281,14,Male,None
+U282,40,Female,"None, Allergy to Penicillin"
+U283,60,Female,"Depression, Cancer"
+U284,50,Male,"None, Obesity"
+U285,63,Male,None
+U286,87,Female,Arthritis
+U287,41,Male,None
+U288,58,Male,Diabetes
+U289,62,Male,Depression
+U290,56,Male,None
+U291,51,Male,Chronic Kidney Disease
+U292,4,Female,None
+U293,58,Female,Heart Disease
+U294,28,Male,None
+U295,46,Male,None
+U296,40,Male,None
+U297,85,Male,"Obesity, Obesity"
+U298,38,Female,Chronic Kidney Disease
+U299,67,Male,None
+U300,24,Female,"Hypertension, Asthma"
